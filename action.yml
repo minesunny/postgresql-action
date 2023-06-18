@@ -1,5 +1,5 @@
-name: 'Setup PostgreSQL'
-description: 'Setup a PostgreSQL database'
+name: 'Setup Local PostgreSQL'
+description: 'Setup a PostgreSQL database without password'
 author: 'Harmon'
 branding:
   icon: 'database'
