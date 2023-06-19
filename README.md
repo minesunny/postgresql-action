@@ -9,7 +9,7 @@ See [action.yml](action.yml)
 Basic:
 ```yaml
 steps:
-- uses: harmon758/postgresql-action@v1
+- uses: minesunny/postgresql-action@v1.0.0
   with:
     postgresql version: '11'  # See https://hub.docker.com/_/postgres for available versions
 ```
