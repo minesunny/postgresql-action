@@ -1,7 +1,7 @@
 # PostgreSQL GitHub Action
 
 This [GitHub Action](https://github.com/features/actions) sets up a PostgreSQL database.
-
+No password required, default account (database) is postgres
 # Usage
 
 See [action.yml](action.yml)
